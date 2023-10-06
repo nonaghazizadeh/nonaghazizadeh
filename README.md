@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-🏫 I'm currently a B.Sc Student in Computer Engineering at Sharif University of Technology student.
+🏫 I am currently an undergraduate student of Computer Engineering at Sharif University of Technology, and I will graduate with a bachelor’s degree in January 2024.
 
 📚 My research interests are:
   - Natural Language Processing (NLP)
